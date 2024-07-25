@@ -1,5 +1,5 @@
-# 💫 About Me:
-After 18 years in the electrical products certification industry as project engineer, I decided to pivot and pursue my passion for software development. I began my studies at <a href="https://www.42barcelona.com/es/" rel="nofollow">Barcelona 42 Campus</a> in January 2023 and completed the common core curriculum in July 2024.<br>Now, I’m currently working on expanding my skills doing the outer core projects in the 42 curriculum.<br>
+# 💫 Hi there 👋
+I'm an Electrical Engineer that after 18 years in the product certification industry decided to pivot and pursue my passion for software development. I began my studies at <a href="https://www.42barcelona.com/es/" rel="nofollow">Barcelona 42 Campus</a> in January 2023 and completed the common core curriculum in July 2024.<br>Now, I’m currently working on expanding my skills doing the outer core projects in the 42 curriculum.<br>
 
 # 🌐 How to contact me:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/jesus-serrano-b386a5b7/) 
