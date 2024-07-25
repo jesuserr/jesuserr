@@ -65,7 +65,7 @@ I'm an avid self-learner and have a variety of interests:
 	</a>
 </p>
 
-| [![appinha's GitHub stats](https://github-readme-stats.vercel.app/api?username=appinha&count_private=true&include_all_commits=true&show_icons=true&hide=issues&hide_border=true&theme=jolly)](https://github.com/appinha?tab=repositories) | [![appinha's most used languages](https://github-readme-stats.vercel.app/api/top-langs/?username=appinha&layout=compact&hide_border=true&theme=jolly)](https://github.com/appinha?tab=repositories) |
+| [![appinha's GitHub stats](https://github-readme-stats.vercel.app/api?username=jesuserr&count_private=true&include_all_commits=true&show_icons=true&hide=issues&hide_border=true&theme=jolly)](https://github.com/jesuserr?tab=repositories) | [![jesuserr's most used languages](https://github-readme-stats.vercel.app/api/top-langs/?username=jesuserr&layout=compact&hide_border=true&theme=jolly)](https://github.com/jesuserr?tab=repositories) |
 |:-:|:-:|
 
 ---
