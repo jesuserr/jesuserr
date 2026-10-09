@@ -1,7 +1,3 @@
-<p align="right">
-	<img alt="Jesus Serrano's visitors" src="https://komarev.com/ghpvc/?username=jesuserr&color=0078D4&style=flat&label=visitors" />
-</p>
-
 ## 💫 Hi there 👋
 I'm an electrical engineer turned software developer. After 18 years in the product certification industry, I pivoted to follow my passion for software and joined <a href="https://www.42barcelona.com/es/">42 Barcelona</a> in January 2023, completing the <a href="https://github.com/jesuserr/42cursus">common core curriculum</a> in July 2024.
 
@@ -31,7 +27,8 @@ Today I work as a **Software Developer** at <a href="https://www.onehub.energy">
 - **Algorithms & math:** `n_puzzle` (A*), `ft_linear_regression`, `computorv1`
 - **Web & infra:** `ft_transcendence`, `inception`
 
-## 📊 GitHub Stats
+---
+
 <div align="center">
 <picture>
   <source media="(prefers-color-scheme: light)"
@@ -46,3 +43,6 @@ Today I work as a **Software Developer** at <a href="https://www.onehub.energy">
        src="https://github-readme-stats.vercel.app/api/top-langs/?username=jesuserr&layout=compact&theme=dark&hide_border=false&langs_count=8">
 </picture>
 </div>
+
+<!-- visit counter: rendered at 1x1 so it keeps counting invisibly; check the number by opening the badge URL -->
+<img src="https://komarev.com/ghpvc/?username=jesuserr&color=0078D4&style=flat&label=visitors" alt="" width="1" height="1" />
